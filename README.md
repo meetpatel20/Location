@@ -1,6 +1,8 @@
 
 # Project Problem Statement: 
 
+This App Is Developed by Meet Patel and Rushal Patel
+
 Location Tracker is a most basic and easiest way of tracking family and friends via Android App. This App fetches the real time location of the user and shows the location on Map. It helps your loved ones to track you and take actions f there is any emergency. This incredible app can locate accurate positions instantly. This helps to know that family, friends and especially your kids are safe everywhere and at every point in time. This app will fetch your current location and address on a click of Button. 
 
 
